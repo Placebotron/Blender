@@ -16,5 +16,4 @@ Run Blender in background:
 ```bash
 blender yourscene.blend --background --python depth_renderer.py -- \
   --output /path/to/output.png \
-  --format PNG \
-  --orthographic
+  --format PNG 
