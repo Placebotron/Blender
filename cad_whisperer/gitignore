@@ -3,4 +3,4 @@ __pycache__/
 output_*/
 .venv/
 .pytest_cache/
-output_first_run/
+cad_whisperer/output_first_run/
