@@ -1,0 +1,26 @@
+world parent_of Sketchfab_model
+Sketchfab_model parent_of SkrzynkaElektryczna.fbx
+SkrzynkaElektryczna.fbx parent_of RootNode
+RootNode parent_of Akumulator
+RootNode parent_of Electrical Door
+RootNode parent_of Electrical Box
+Akumulator parent_of Akumulator_ElecticalBox_0
+Electrical Door parent_of Electrical Door_ElecticalBox_0
+Electrical Box parent_of Electrical Box_ElecticalBox_0
+world part_type ASSEMBLY
+world has_children true
+Sketchfab_model part_type ASSEMBLY
+Sketchfab_model has_children true
+SkrzynkaElektryczna.fbx part_type ASSEMBLY
+SkrzynkaElektryczna.fbx has_children true
+RootNode part_type ASSEMBLY
+RootNode has_children true
+Akumulator part_type ASSEMBLY
+Akumulator has_children true
+Akumulator_ElecticalBox_0 part_type PART
+Electrical Door part_type ASSEMBLY
+Electrical Door has_children true
+Electrical Door_ElecticalBox_0 part_type PART
+Electrical Box part_type ASSEMBLY
+Electrical Box has_children true
+Electrical Box_ElecticalBox_0 part_type PART
