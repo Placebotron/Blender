@@ -1,0 +1,19 @@
+Metadata-Version: 2.4
+Name: cad-whisperer
+Version: 0.1.0
+Summary: Add your description here
+Requires-Python: >=3.10
+Description-Content-Type: text/markdown
+Requires-Dist: dash>=3.1.1
+Requires-Dist: dash-cytoscape>=1.0.2
+Requires-Dist: jinja2>=3.1.6
+Requires-Dist: lxml>=6.0.0
+Requires-Dist: matplotlib>=3.10.3
+Requires-Dist: networkx>=3.4.2
+Requires-Dist: plotly>=6.2.0
+Requires-Dist: pyvis>=0.3.2
+Requires-Dist: ruff>=0.12.2
+Requires-Dist: scipy>=1.15.3
+Requires-Dist: torch>=2.7.1
+Requires-Dist: torch-geometric>=2.6.1
+Requires-Dist: trimesh>=4.7.0

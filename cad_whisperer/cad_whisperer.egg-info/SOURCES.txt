@@ -1,0 +1,16 @@
+README.md
+pyproject.toml
+cad_whisperer.egg-info/PKG-INFO
+cad_whisperer.egg-info/SOURCES.txt
+cad_whisperer.egg-info/dependency_links.txt
+cad_whisperer.egg-info/requires.txt
+cad_whisperer.egg-info/top_level.txt
+cadwhisperer/__init__.py
+cadwhisperer/graph/enrich.py
+cadwhisperer/io/scene_loader.py
+cadwhisperer/io/serializer.py
+cadwhisperer/shapes/__init__.py
+cadwhisperer/shapes/base.py
+cadwhisperer/shapes/heuristics.py
+cadwhisperer/shapes/models.py
+cadwhisperer/utils/geometry.py

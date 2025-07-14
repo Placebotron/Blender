@@ -1,0 +1,13 @@
+dash>=3.1.1
+dash-cytoscape>=1.0.2
+jinja2>=3.1.6
+lxml>=6.0.0
+matplotlib>=3.10.3
+networkx>=3.4.2
+plotly>=6.2.0
+pyvis>=0.3.2
+ruff>=0.12.2
+scipy>=1.15.3
+torch>=2.7.1
+torch-geometric>=2.6.1
+trimesh>=4.7.0
