@@ -1,6 +1,7 @@
 # Blender
 
-This script renders depth maps from Blender scenes.
+This Repository is a collection of scripts that use the python api to achieve different task. 
+
 
 ## Features
 
